@@ -10,6 +10,7 @@ black = "*"
 python-dotenv = "*"
 langchain-community = "*"
 langchainhub = "*"
+tweepy = "*"
 
 [dev-packages]
 
